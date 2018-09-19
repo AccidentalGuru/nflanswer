@@ -1,2 +1,2 @@
 # nflanswer
-MLfitlive perspredictions acrossstatsigseason. Also,overlayheat mapsDQBWR to improve predictions
+MLfitliveperspredictions acrossstatsigseason. Also,overlayheatmaps:D/QB/WR to improve predictions
